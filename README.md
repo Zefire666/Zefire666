@@ -49,4 +49,4 @@
 
 ### 💻 Codewars:
 
-![codewars]([https://www.codewars.com/users/FilimonovAlexey/badges/large](https://www.codewars.com/users/Zefire666))
+![codewars](https://www.codewars.com/users/Zefire666/badges/large)
