@@ -64,4 +64,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zefire666.Zefire666)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Zefire666.Zefire666&left_color=green&right_color=red)
